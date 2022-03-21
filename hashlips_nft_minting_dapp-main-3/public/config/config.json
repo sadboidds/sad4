@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc247bb2C74D47d5E0aAf0cAB87461371d6572a77",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xc247bb2C74D47d5E0aAf0cAB87461371d6572a77",
+  "NETWORK": {
+    "NAME": "Etheruem",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Sadbois",
+  "SYMBOL": "SAD",
+  "MAX_SUPPLY": 50,
+  "GWEI_COST": 4000000000,
+  "DISPLAY_COST": 0.0333,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sadboi",
+  "SHOW_BACKGROUND": true
+}
